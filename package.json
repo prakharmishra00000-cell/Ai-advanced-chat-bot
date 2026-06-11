@@ -1,0 +1,18 @@
+{
+  "name": "advanced-ai-chat-bot",
+  "version": "12.0.0",
+  "description": "Enterprise grade multi-agent simulation matrix workflow pipeline engine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
